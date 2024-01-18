@@ -11,4 +11,4 @@ Welcome to the Hotel Cancellation Predictor repository! This project focuses on 
   - [Data Preprocessing Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Phase%202%20ML.pdf)
   - [Pilot Study Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Phase%203.ipynb)
   - [Hyperparameter Tuning Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Logistic%20-%20Hyperparameter%20Tuning.ipynb)
-  - [App Interface Notebook](path/to/your/AppInterface.ipynb)
+  - [App Interface Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/main.py)
