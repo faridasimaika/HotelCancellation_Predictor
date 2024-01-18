@@ -8,7 +8,7 @@ Welcome to the Hotel Cancellation Predictor repository! This project focuses on 
   - [Video Demo](path/to/your/demo_video.mp4)
 
 - **Reports and Notebooks:**
-  - [Data Preprocessing Notebook](path/to/your/DataPreprocessing.ipynb)
+  - [Data Preprocessing Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Phase%202%20ML.pdf)
   - [Pilot Study Notebook](path/to/your/PilotStudy.ipynb)
   - [Hyperparameter Tuning Notebook](path/to/your/HyperparameterTuning.ipynb)
   - [App Interface Notebook](path/to/your/AppInterface.ipynb)
