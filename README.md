@@ -9,7 +9,7 @@ The repository includes the source code for a Streamlit web application, a video
   - [Video Demo](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/ProjectDemo%202.mov)
 
 - **Reports and Notebooks:**
-  - [Project Report]()
+  - [Project Report](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Reports%20Merged.pdf)
   - [Data Preprocessing Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Phase%202%20ML.pdf)
   - [Pilot Study Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Phase%203.ipynb)
   - [Hyperparameter Tuning Notebook](https://github.com/faridasimaika/HotelCancellation_Predictor/blob/main/Logistic%20-%20Hyperparameter%20Tuning.ipynb)
